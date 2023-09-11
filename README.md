@@ -6,4 +6,4 @@ This repository serves as an archive for the proposals for  GSoC - Google Summer
 ### 2023
 
 ### [2022](gsoc/2022)
-  - [Madhur Jain - Submitty](gsoc/2022/CERN-HSF%20-%202020%20-%20Shivansh%20Saini.pdf)
+  - [Madhur Jain - Submitty](gsoc/2022/MadhurJain_Submitty_2022.pdf)
