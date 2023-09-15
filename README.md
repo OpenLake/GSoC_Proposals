@@ -7,3 +7,7 @@ This repository serves as an archive for the proposals for  GSoC - Google Summer
 
 ### [2022](gsoc/2022)
   - [Madhur Jain - Submitty](gsoc/2022/MadhurJain_Submitty_2022.pdf)
+
+### [2021](gsoc/2021)
+  - [Kumar Shivendu - Software Heritage](gsoc/2021/KumarShivendu_SoftwareHeritage_2021.pdf)
+
