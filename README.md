@@ -3,7 +3,8 @@ This repository serves as an archive for the proposals for  GSoC - Google Summer
 
 ## Google Summer of Code
 
-### 2023
+### [2023](gsoc/2023)
+  - [Prarabdh Shukla - AOSSIE](gsoc/2023/PrarabdhShukla_AOSSIE_2023.pdf)
 
 ### [2022](gsoc/2022)
   - [Madhur Jain - Submitty](gsoc/2022/MadhurJain_Submitty_2022.pdf)
